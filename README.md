@@ -10,6 +10,7 @@ This tool analyzes:
 - Final score + feedback for improvement  
 
 Perfect for building:
+
 ✔ Cybersecurity portfolio  
 ✔ Python security tools  
 ✔ GitHub profile projects  
