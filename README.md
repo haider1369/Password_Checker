@@ -35,7 +35,7 @@ cd password-strength-checker
 
 ## 📦 Requirements
 
-The script uses only built-in libraries, but you can keep this:
+The script uses only built-in libraries.
 
 ---
 
