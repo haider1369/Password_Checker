@@ -28,7 +28,7 @@ It provides real-time feedback, entropy calculation, and suggestions for improvi
 1. **Clone the repository**
 
 ```bash
-git clone 
+git clone https://github.com/haider1369/Password_Checker-python.git
 cd password-strength-checker
 ```
 ---
