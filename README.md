@@ -17,12 +17,6 @@ It provides real-time feedback, entropy calculation, and suggestions for improvi
 
 ---
 
-## 🖼 GUI Preview
-
-*(You can add screenshots here in your GitHub repo)*
-
----
-
 ## 📦 Installation
 
 1. **Clone the repository**
