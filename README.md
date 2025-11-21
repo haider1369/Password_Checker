@@ -1,37 +1,36 @@
-# 🔐 Password Strength Checker (Python)
+# 🔐 Password Strength Checker (Python GUI)
 
-A simple and effective **Password Strength Checker** for cybersecurity students and beginners.
-
-This tool analyzes:
-- Password length  
-- Uppercase, lowercase, digits, symbols  
-- Common-password detection  
-- Entropy calculation (cryptographic strength)  
-- Final score + feedback for improvement  
-
-Perfect for building:
-
-✔ Cybersecurity portfolio  
-✔ Python security tools  
-✔ GitHub profile projects  
+A **modern GUI application** built using Python and Tkinter to **check the strength of passwords**.  
+It provides real-time feedback, entropy calculation, and suggestions for improving password security.
 
 ---
 
-## 🚀 Features
+## ✨ Features
 
-### ✔ Password Score (0–6)
-Based on:
-- Minimum length  
-- Character variety  
-- Use of symbols  
-- Avoiding common passwords  
+- Check password strength (Weak, Moderate, Strong)
+- Calculates **entropy** in bits
+- Detects **common weak passwords**
+- Suggests improvements (uppercase, numbers, symbols, length)
+- Real-time feedback as you type
+- Toggle password visibility (eye icon)
+- Modern and responsive Tkinter GUI
 
-### ✔ Entropy Calculation  
-Measures how hard the password is to brute-force.
+---
 
-### ✔ Security Feedback  
-Tells the user exactly what to improve.
+## 🖼 GUI Preview
 
+*(You can add screenshots here in your GitHub repo)*
+
+---
+
+## 📦 Installation
+
+1. **Clone the repository**
+
+```bash
+git clone 
+cd password-strength-checker
+```
 ---
 
 ## 📦 Requirements
